@@ -18,7 +18,7 @@
     "Environments": [
       {
         "Name": "production",
-        "Description": "Generated ssserver url",
+        "Description": "Generated ssssserver url",
         "Servers": [
           {
             "Name": "default",
